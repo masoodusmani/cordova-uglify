@@ -11,9 +11,9 @@
     "hooks"
   ],
   "peerDependencies" : {
-    "uglify-js": "2.4.14",
-    "ng-annotate": "0.15.4",
-    "clean-css": "2.2.2"
+    "uglify-js": "^2.4.14",
+    "ng-annotate": "^0.15.4",
+    "clean-css": "^2.2.2"
   },
   "author": "Ross Martin",
   "license": "MIT",
